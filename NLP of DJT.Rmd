@@ -2,7 +2,8 @@
 title: "NPL of DJT"
 author: "Daniel HSieh"
 date: "January 27, 2019"
-output: html_document
+`output: html_document`
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
