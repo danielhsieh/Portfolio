@@ -35,4 +35,6 @@ Similarly, [other files can be linked below the README.md file]().
 ### Task List
 [x] Done
 [ ] Not done
+[ ] \(Parentheses) are escaped using a back-slash
+
 
